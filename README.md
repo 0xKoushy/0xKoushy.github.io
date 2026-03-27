@@ -1,3 +1,3 @@
 # 0xKoushy.github.io
 
-0xKoushy.github.io
+https://0xkoushy.github.io
